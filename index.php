@@ -4,9 +4,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Belajar Git - project 01</title>
+    <title>Belajar Git</title>
 </head>
 <body>
-   <p>Hello semua, saya sedang belajar Git</p> 
+    <p>Selamat kenal,pertama kali belajar Git
 </body>
 </html>
